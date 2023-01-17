@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RelationalOperatorsTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-01-12T14:55:41" hostname="DESKTOP-FC45U7B" time="0.135">
+  <properties/>
+  <testcase name="shouldTellNotEqualToTwoNumber()" classname="RelationalOperatorsTest" time="0.082"/>
+  <testcase name="shouldTellMinimumAndEqualToTwoNumber()" classname="RelationalOperatorsTest" time="0.018"/>
+  <testcase name="shouldTellMaximumNumber()" classname="RelationalOperatorsTest" time="0.002"/>
+  <testcase name="shouldTellMinimumNumber()" classname="RelationalOperatorsTest" time="0.008"/>
+  <testcase name="shouldTellMaximumAndEqualToTwoNumber()" classname="RelationalOperatorsTest" time="0.006"/>
+  <system-out><![CDATA[45 is Minimum
+45 is Minimum
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
